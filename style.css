@@ -87,6 +87,7 @@ nav ul{
 }
 
 .imgBox img{
+    margin-top:8px;
     width: 0;
     transition: 1s width ease-in-out;
 }
